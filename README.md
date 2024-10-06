@@ -4,7 +4,7 @@ This analysis was carried out to answer specific questions about bike buyers of 
 
 This analysis was done using the PYTHON PROGRAMMING language
 ## Objectives
-The primary goals of this analysis are
+The primary goals of this analysis are;
 1.	To understand the trends and patterns in bike sales dataset
 2.	To identify key factors driving sales such as product category, seasons or customer segment
 3.	To uncover insight into the most profitable product, customer behaviour and regional sales performance
@@ -89,7 +89,7 @@ Based on this analysis, we’ve been able to answer some basic business question
 •	How European Middle Age Singles on bike purchase behave
 •	Which academic qualification earns more
 
-## Recommendation
+## Recommendations
 •	Less attention should be given to the Middle Age group by the Bike Manufacturers because it is discovered, from the chart, that they usually buy more. Hence, more marketing focus should instead be on the adolescent and old age bracket because their count of bike purchase is relatively low
 •	For European middle age singles on bike purchase, these people are observed to travel lesser miles, even with a purchase bike count of about 70. Hence, they’re less commuters and would likely spend time at home. There’s possibility of them working from home and only need bikes to get home items nearby
 •	The Graduate degree has the highest average income of $70,000. Bike Manufacturers should target them more, especially singles from the Pacific Region with the highest average income.
